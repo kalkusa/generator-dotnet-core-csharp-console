@@ -6,7 +6,9 @@
       "generators"
     ],
     "keywords": ["yeoman-generator"],
-    "dependencies": {
-      "yeoman-generator": "^1.0.0"
-    }
+     "dependencies": {
+       "yeoman-generator": "^1.0.0",
+       "chalk": "^1.0.0",
+       "yosay": "^1.0.2"
+     }
   }
